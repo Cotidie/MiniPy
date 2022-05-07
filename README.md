@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/51331195/103190076-c51a3480-4912-11eb-937c-78cef981862c.png)
 
 # URL
-: http://minipy-git.herokuapp.com/main/
+: https://minipy-git.herokuapp.com/main/
 
 Since the app is running on a free Heroku server, It may require a few seconds to start up the server.
 
